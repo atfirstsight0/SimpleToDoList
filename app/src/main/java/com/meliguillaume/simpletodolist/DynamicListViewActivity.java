@@ -1,5 +1,13 @@
 package com.meliguillaume.simpletodolist;
 
+
+/*
+     Purpose of this application is to demonstrate a To-Do List Application in Android Studio by:
+     Creating a simple UI to add items to ListView.
+     Creating a dynamic Adapter.
+     Add and delete Views from ListView.
+ */
+
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
